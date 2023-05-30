@@ -1,2 +1,2 @@
 # Practice_Frontend
-Prectice html, css and js
+Practice html, css and js
